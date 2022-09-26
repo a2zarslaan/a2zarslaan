@@ -4,7 +4,7 @@
 
 - 🚶‍♂️ **whoami:** I'm a dreamer, rebel and a problem-solver, equipped with excellent written and verbal communication skills and an unfaltering desire to learn more. Fascinated by design and programming alike.
 
-- **🔭 I’m currently working on:** an E-Commerce website project, dedicated to my favourite music duo from India - Seedhe Maut. The website features the ability to sign in using various service providers, in addition to be able to create user accounts using email. Integration with Stripe allows for easy payment processing.
+- **🔭 I’m currently working on:** an E-Commerce website to sell music and merchandise, dedicated to my favourite music duo from India - Seedhe Maut. The website features the ability to sign in using various service providers, in addition to be able to create user accounts using email. Integration with Stripe allows for easy payment processing.
 
 - 🌱 **I’m currently learning:** more about Advanced Data Structures, Redux, Typescript, and testing with React.
 
