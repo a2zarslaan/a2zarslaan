@@ -17,7 +17,6 @@
 	- 👨‍💻 [LinkedIn](https://www.linkedin.com/in/arslaanamar/)
 	- 🤓 [Leetcode](https://leetcode.com/a2zarslaan/)
 	- 📧 [Email](mailto:amar.arslaan@gmail.com?subject=Hello%20from%20Github)
-	- 🌐 [Website](https://reminiscent-dirigible-726.notion.site/Amar-Zia-Arslaan-0a4d6caca8c044359c8638719f27ecf5)
  
 - 😄 **Pronouns:** He/Him
 
