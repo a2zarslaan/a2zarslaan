@@ -10,7 +10,8 @@
 
 - 👯 **I’m looking to collaborate on:** Small fun projects that solve actual problems. Also open to collaborate on research in Mixed Reality or Human-Machine Interaction space.   
 
-- 💬 **Ask me about:** my past projects and potential collaboration opportunities
+- 💬 **Ask me about:** my past projects and potential collaboration opportunities.
+
 - 📫 **You can also find me at:** 
 
 	- 👨‍💻 [LinkedIn](https://www.linkedin.com/in/arslaanamar/)
