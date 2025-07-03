@@ -4,7 +4,7 @@
 
 - 🚶‍♂️ **whoami:** I'm a dreamer, rebel and a problem-solver, equipped with excellent written and verbal communication skills and an unfaltering desire to learn more. Fascinated by design and programming alike.
 
-- **🔭 I’m currently working on:** an E-Commerce website to sell music and merchandise, dedicated to my favourite music duo from India - Seedhe Maut. The website features the ability to sign in using various service providers, in addition to be able to create user accounts using email. Integration with Stripe allows for easy payment processing.
+- **🔭 I’m currently working on:** an education platform for medical students preparing for their medical entrance exams. It offers adaptive MCQ modules, real-time mock simulations with wordlwide rankings and leaderboard, custom Anki flashcards, mnemonics, smart scheduling tools, and advanced analytics. Content is peer‑reviewed, frequently updated, and aligned with standard textbooks. With over 3,500 practice questions and a robust report system, it delivers personalized, data‑driven study plans. 
 
 - 🌱 **I’m currently learning:** more about Advanced Data Structures, Typescript and React Three Fiber.
 
